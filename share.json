@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "James Dave",
+      "email": "james@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Freddy Hacks",
+      "email": "freddy@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Jenny Vega",
+      "email": "jenny@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Lime Sands",
+      "email": "lime@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Perry Alex",
+      "email": "perry@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Babby Toms",
+      "email": "bobby@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Kane Willi",
+      "email": "kane@gmail.com"
+    },
+    {
+     "id": 8,
+      "name": "Otori Hops",
+      "email": "otori@gmail.com"
+    },
+    {
+     "id": 9,
+      "name": "Vani Sams",
+      "email": "vani@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Christ George",
+      "email": "christ@gmail.com"
+    }
+  ]
+  
